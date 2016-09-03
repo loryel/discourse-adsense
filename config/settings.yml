@@ -1,34 +1,34 @@
 adsense_plugin:
   adsense_publisher_code:
     client: true
-    default: ''
+    default: 'ca-pub-8960297645334284'
   adsense_show_topiclist_top:
     client: true
-    default: false
+    default: true
   adsense_ad_slot_topiclist_top:
     client: true
-    default: ''
+    default: '2109236723'
   adsense_ad_slot_topiclist_top_mobile:
     client: true
-    default: ''
+    default: '2109236723'
   adsense_show_topic_top:
     client: true
-    default: false
+    default: true
   adsense_ad_slot_topic_top:
     client: true
-    default: ''
+    default: '2109236723'
   adsense_ad_slot_topic_top_mobile:
     client: true
-    default: ''
+    default: '2109236723'
   adsense_show_topic_bottom:
     client: true
-    default: false
+    default: true
   adsense_ad_slot_topic_bottom:
     client: true
-    default: ''
+    default: '2109236723'
   adsense_ad_slot_topic_bottom_mobile:
     client: true
-    default: ''
+    default: '2109236723'
   adsense_through_trust_level:
     client: true
     default: 2
