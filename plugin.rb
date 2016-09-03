@@ -9,7 +9,7 @@ register_css <<CSS
 
 .adsense {
   text-align: center;
-  padding: 3px;
+  margin: 0 -8px;
   margin-bottom: 10px;
 }
 
